@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>关于unity导入3dmax模型不显示贴图/模型过小解决方法</title>
+    <link href="/2022/11/03/%E5%85%B3%E4%BA%8Eunity%E5%AF%BC%E5%85%A53dmax%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AE%BE%E7%BD%AE%E9%97%AE%E9%A2%98/"/>
+    <url>/2022/11/03/%E5%85%B3%E4%BA%8Eunity%E5%AF%BC%E5%85%A53dmax%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AE%BE%E7%BD%AE%E9%97%AE%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<p>软件版本：3dmax2020，unity3d 2021.<br>在3dmax中编辑好模型，并在文件中导出（E），选择FBX通用格式。<br><img src="/img/001.png" alt="avatar"><br><img src="/img/002.png" alt="avatar"><br>按照默认设置直接确定。<br><img src="/img/003.png" alt="avatar"><br>导出成功后：<br><img src="/img/004.png" alt="avatar"><br>将FBX文件直接拖入assets栏中：<br><img src="/img/005.png" alt="avatar"><br>模型导入成功，但是贴图不显示：<br><img src="/img/006.png" alt="avatar"><br>这是找到原模型文件路径的贴图，并拖入assets栏中：<br><img src="/img/007.png" alt="avatar"><br>贴图显示成功：<br><img src="/img/008.png" alt="avatar"><br>如果是遇见模型大小过小&#x2F;大问题，可以右键assets栏中模型文件，选择属性，修改缩放系数（默认为1）：<br><img src="/img/009.png" alt="avatar"><br><img src="/img/010.png" alt="avatar"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
